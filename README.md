@@ -13,6 +13,12 @@ Students can order food from the nearest Falafel, but there is a minimum fee for
 The Solution: ShevachApp - The app that will help you organize a Falafel delivery to your campus! 
 </h4>
 
-<img src="https://lh3.googleusercontent.com/FLnRo1vQh9L4ZpkSSNu5AVGSlz8F0f-6ZEQYn3TF9pbBBDRIHIdsfm9RY2M-shn2PhM=w2560-h1058-rw" width="250" height="400" /> <img src="https://lh3.googleusercontent.com/laP7mnY50VEZtROuZKYfVMbF2r-kdRwBeaYeWLe7x3aqC_-OM50XdO99Ad0JfXy11-8=w2560-h1058-rw" width="250" height="400" /> <img src="https://lh3.googleusercontent.com/q-ToHIuzbqMnP3fdFX0KkzycMZp3AyG4FHRQg10rsmsKsTU02sclMcL8dhA7KDkcXHXS=w1440-h620-rw" width="250" height="400" />
+<img src="https://github.com/liav25/Falafel-2-Campus-App-HUJI-project/blob/master/%D7%91%D7%99%D7%90%D7%95%D7%A8%202020-06-08%20171846.png?raw=true" width="250" height="400" /> 
+<img src="https://github.com/liav25/Falafel-2-Campus-App-HUJI-project/blob/master/%D7%91%D7%99%D7%90%D7%95%D7%A8%202020-06-08%20171907.png?raw=true" width="250" height="400" /> 
+<img src="https://github.com/liav25/Falafel-2-Campus-App-HUJI-project/blob/master/%D7%91%D7%99%D7%90%D7%95%D7%A8%202020-06-08%20171933.png?raw=true" width="250" height="400" />
+
+<img src="https://github.com/liav25/Falafel-2-Campus-App-HUJI-project/blob/master/%D7%91%D7%99%D7%90%D7%95%D7%A8%202020-06-08%20172003.png?raw=true" width="250" height="400" /> 
+<img src="https://github.com/liav25/Falafel-2-Campus-App-HUJI-project/blob/master/%D7%91%D7%99%D7%90%D7%95%D7%A8%202020-06-08%20172032.png?raw=true" width="250" height="400" /> 
+<img src="https://github.com/liav25/Falafel-2-Campus-App-HUJI-project/blob/master/%D7%91%D7%99%D7%90%D7%95%D7%A8%202020-06-08%20172053.png?raw=true" width="250" height="400" />
 
 
